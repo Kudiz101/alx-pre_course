@@ -1,7 +1,2 @@
-ocho "ALX"
-
-
-
-
-
-
+#!/bin/bash
+ocho "ALX School"  
